@@ -11,11 +11,11 @@ The objective of this project is to generate valuable business insights by using
 
 The database contains **5 interconnected tables**:
 
-- 🧑‍🤝‍🧑 **Patients**
-- 👨‍⚕️ **Doctors**
-- 📅 **Appointments**
-- 💉 **Treatments**
-- 💳 **Billing**
+-  **Patients**
+-  **Doctors**
+-  **Appointments**
+-  **Treatments**
+-  **Billing**
 
 ---
 
