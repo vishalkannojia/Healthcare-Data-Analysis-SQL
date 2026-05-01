@@ -57,23 +57,14 @@ Healthcare-Data-Analysis-SQL/
 
 ## 🧠 SQL Concepts Used
 
-- 🔗 INNER JOIN
-- 📊 GROUP BY
-- 📌 ORDER BY
-- 🧮 Aggregate Functions (`SUM`, `COUNT`, `AVG`)
-- 🧾 Subqueries
-- 🪜 CTE (Common Table Expression)
-- 🏆 Window Functions (`RANK`, `ROW_NUMBER`)
-- 🔐 Primary Key & Foreign Key Constraints
-
----
-
-## 🚀 How to Run This Project
-
-1️⃣ Open PostgreSQL / pgAdmin  
-2️⃣ Run `Schema.sql` to create all tables  
-3️⃣ Insert your sample data  
-4️⃣ Run `Queries.sql` for analysis  
+-  INNER JOIN
+-  GROUP BY
+-  ORDER BY
+-  Aggregate Functions (`SUM`, `COUNT`, `AVG`)
+-  Subqueries
+-  CTE (Common Table Expression)
+-  Window Functions (`RANK`, `ROW_NUMBER`)
+-  Primary Key & Foreign Key Constraints
 
 ---
 
@@ -88,10 +79,4 @@ This project demonstrates practical SQL skills used in real-world domains such a
 
 ---
 
-## 👨‍💻 Author
 
-**Vishal Kumar**
-
----
-
-## ⭐ If you like this project, give it a star on GitHub!
